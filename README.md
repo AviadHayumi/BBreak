@@ -1,4 +1,4 @@
-<h4> This project was developed as a hobby years ago as hobby of creating mobile apps. </h4>
+<h4> This project was developed years ago as hobby of creating mobile apps. </h4>
 
 <h1>Images</h1>
 <img src="https://i.imgur.com/go3ot9j.png">
